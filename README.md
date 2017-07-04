@@ -35,3 +35,7 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+<<<<<<< HEAD
+=======
+# chef2017
+>>>>>>> 034868c088350bda274a6011719e3315e70e5095
