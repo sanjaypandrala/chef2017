@@ -20,10 +20,10 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 # source_url 'https://github.com/<insert_org_here>/my_cookbook'
 
 
-depends 'build-essential'
-depends 'apache2', '>=1.0.4'
-depends 'chef-client'
-depends 'ntp'
-depends 'apt'
+#depends 'build-essential'
+#depends 'apache2', '>=1.0.4'
+#depends 'chef-client'
+#depends 'ntp'
+#depends 'apt'
 
 
